@@ -9,3 +9,4 @@
 - [ ] Generate imagery for attractions/hero
 - [ ] Fully responsive across mobile, tablet, desktop
 - [ ] Per-route SEO head metadata
+- [ ] Motion/animations throughout + responsive, touch-friendly buttons
