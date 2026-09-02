@@ -64,7 +64,7 @@ export const planActions = {
     const j = i + direction;
     if (i < 0 || j < 0 || j >= ids.length) return;
     const next = [...ids];
-    [next[i], next[j]] = [next[j], next[i]];
+    next.splice(j, 0, next.splice(i, 1)[0]!);
     ids = next;
     persist();
     emit();
