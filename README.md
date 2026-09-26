@@ -1,4 +1,4 @@
-# Charming Sites
+# Charming Sites.
 
 generate website according to this. need for attractive, clean catchy design
 
